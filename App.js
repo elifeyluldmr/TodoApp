@@ -1,3 +1,4 @@
+//elif eylül demir 220404052
 import {
     StyleSheet, Text, View, Button, TextInput, FlatList, Keyboard, KeyboardAvoidingView, Platform
 } from 'react-native';
