@@ -1,3 +1,4 @@
+//elif eylül demir 220404052
 import { StyleSheet, Text, View, Pressable } from 'react-native';
 export default function TodoItem({ text, id, onDelete }) {
   return (
